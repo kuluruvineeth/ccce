@@ -10,8 +10,8 @@ import { error } from "console";
 const client = new ECSClient({
   region: "us-east-1",
   credentials: {
-    accessKeyId: "AKIAZQ3DOPGVTMHESALR",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
   },
 });
 
