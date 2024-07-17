@@ -1,0 +1,1 @@
+ALTER TABLE user ADD `generations` integer DEFAULT 0;

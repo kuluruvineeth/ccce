@@ -1,0 +1,1 @@
+ALTER TABLE `virtualbox` DROP COLUMN `bucket`;

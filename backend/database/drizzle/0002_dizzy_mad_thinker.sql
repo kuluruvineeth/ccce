@@ -1,0 +1,1 @@
+ALTER TABLE virtualbox ADD `visibility` text;

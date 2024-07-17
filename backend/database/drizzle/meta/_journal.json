@@ -1,0 +1,55 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1718281512010,
+      "tag": "0000_daffy_medusa",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1718349898293,
+      "tag": "0001_cool_solo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1718508426958,
+      "tag": "0002_dizzy_mad_thinker",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1718534465539,
+      "tag": "0003_curious_ego",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1718534906351,
+      "tag": "0004_bitter_overlord",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1718588569641,
+      "tag": "0005_demonic_sheva_callister",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1719024357022,
+      "tag": "0006_brown_senator_kelly",
+      "breakpoints": true
+    }
+  ]
+}
